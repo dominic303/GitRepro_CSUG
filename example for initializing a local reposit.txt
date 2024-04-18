@@ -1,0 +1,1 @@
+example for initializing a local repository and syncronizing to a remote repository.
